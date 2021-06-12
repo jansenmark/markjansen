@@ -1,0 +1,56 @@
+<head>
+<link rel="stylesheet" href="//brick.a.ssl.fastly.net/Roboto+Slab:700/Roboto:300,300i">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Mark Jansen</title>  
+
+<meta name="description" content="Mark Jansen :: David Eccles School of Business." />
+<meta name="keywords" content="Private Equity, Venture Capital, Household Finance, Corporate Finance, Mark Jansen" />
+<meta name="language" content="en-us, english" />
+<meta name="classification" content="academic" />
+<meta name="copyright" content="copyright Mark Jansen 2021. All rights reserved" />
+	<link rel="shorcut icon" type="image/x-ico" href="images/favicon.ico" />
+	<link rel="stylesheet" media="screen, projection" href="style.css" type="text/css" />
+	<!--[if lt IE 7]><script src="http://ie7-js.googlecode.com/svn/version/2.0(beta)/IE7.js" type="text/javascript"></script>
+	<![endif]-->
+</head>
+
+<body>
+	
+    <div id="wrapper">
+	  <div id="header">        
+       	  <div class="logo"><img src="images/logo2.png" alt="Mark Jansen: University of Utah."/></div>
+           
+        <div class="nav">
+        	<ul>
+            	<li><a class="current" href="index.html">Home</a></li>
+            	<li><a href="papers.html">Papers</a></li>
+                <li><a href="cv.html">Vitae</a></li>
+            </ul>
+        </div><!--end of nav-->
+      </div><!--end of Header-->
+        
+        <div class="body">
+        	<div class="sidebarLeft">
+            <div class="bioPic"><img src="images/blank.jpg" height="300" alt="Mark Jansen" /></div>
+        	<h2 class="marN bottom">Contact Info</h2>
+            <ul>
+                <li>David Eccles School of Business</li>
+                <li>1655 Campus Center Dr</li>
+                <li>Spencer Fox Eccles Busn Bldg</li>
+                <li>Salt Lake City, UT 84112 U.S.A.</li>
+                <li>email: <a href="mailto:mark.jansen@utah.edu" target="_blank">mark.jansen@utah.edu</a></li>
+            </ul>
+            </div><!--end of leftSidebar-->
+            
+            
+            
+            <div class="mainRight">
+            
+            <h2 class="noPad">About Me</h2>
+            
+			<p>My primary research and teaching interests are in private equity, entrepreneurial finance, and corporate finance. Prior to joining the University of Utah, I worked in the private equity industry with responsibility for acquisitions, deal structure, and investor relations. Prior to this I worked in management consulting and in the chemical industry. I have a Ph.D. in finance from the University of Texas at Austin, an M.B.A. from London Business School and a dual B.S. in management science and mechanical engineering from the Massachusetts Institute of Technology. I am former member of Young President’s Organization. I have working papers on private equity, mergers and acquisitions, and consumer finance.</p></p><p>&nbsp</p></p>
+
+            </div><!--end of mainRight-->
+        </div><!--end of body content-->
+    <div class="clear"></div>
+    </div><!--end of wrapper-->
